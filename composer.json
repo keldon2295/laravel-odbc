@@ -1,5 +1,5 @@
 {
-	"name": "abram/laravel-odbc",
+	"name": "keldon2295/laravel-odbc",
 	"description": "ODBC integration for Laravel framework ",
 	"type": "library",
 	"homepage": "https://github.com/andreossido/laravel-odbc",
